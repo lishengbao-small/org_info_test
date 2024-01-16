@@ -11,4 +11,11 @@ https://github.com/lishengbao/compass-metrics-model-3:
   developers:
     zhangsan: 
       - Tencen from 2017-01-01 until 2018-01-01
-      - Huawei from 2018-01-01 until 2019-01-01
+      - Huawei from 2018-01-01 until 2019-01-01      
+https://github.com/lishengbao/compass-metrics-model-2:
+  level: repo
+  source: github
+  developers:
+    zhangsan: 
+      - Tencen from 2017-01-01 until 2018-01-01
+      - Huawei from 2018-01-01 until 2019-01-01 
